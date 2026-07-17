@@ -1,0 +1,1644 @@
+{
+  "versions": [
+    {
+      "version": "3.2.6",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/0017.zip"
+      ],
+      "deletes": [
+        "/0017.zip"
+      ]
+    },
+    {
+      "version": "3.2.8",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/00171.zip"
+      ],
+      "deletes": [
+        "/00171.zip"
+      ]
+    },
+    {
+      "version": "3.3.0",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/00172.zip"
+      ],
+      "deletes": [
+        "/00172.zip"
+      ]
+    },
+    {
+      "version": "3.3.2",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/00173.zip"
+      ],
+      "deletes": [
+        "/00173.zip"
+      ]
+    },
+    {
+      "version": "3.3.5",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/00175.zip"
+      ],
+      "deletes": [
+        "/00175.zip"
+      ]
+    },
+    {
+      "version": "3.3.7",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/00176.zip"
+      ],
+      "deletes": [
+        "/00176.zip"
+      ]
+    },
+    {
+      "version": "3.3.9",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/00177.zip"
+      ],
+      "deletes": [
+        "/00177.zip"
+      ]
+    },
+    {
+      "version": "3.4.1",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/00178.zip"
+      ],
+      "deletes": [
+        "/00178.zip"
+      ]
+    },
+    {
+      "version": "3.4.3",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/00179.zip"
+      ],
+      "deletes": [
+        "/00179.zip"
+      ]
+    },
+    {
+      "version": "3.5.1",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/0018.zip"
+      ],
+      "deletes": [
+        "/0018.zip"
+      ]
+    },
+    {
+      "version": "3.5.3",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/0018f.zip"
+      ],
+      "deletes": [
+        "/0018f.zip"
+      ]
+    },
+    {
+      "version": "3.5.7",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/00181.zip"
+      ],
+      "deletes": [
+        "/00181.zip"
+      ]
+    },
+    {
+      "version": "3.5.9",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/0019.zip"
+      ],
+      "deletes": [
+        "/0019.zip"
+      ]
+    },
+    {
+      "version": "3.6.1",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/00191.zip"
+      ],
+      "deletes": [
+        "/00191.zip"
+      ]
+    },
+    {
+      "version": "3.6.3",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/00192.zip"
+      ],
+      "deletes": [
+        "/00192.zip"
+      ]
+    },
+    {
+      "version": "3.6.5",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/0020.zip"
+      ],
+      "deletes": [
+        "/0020.zip"
+      ]
+    },
+    {
+      "version": "3.6.7",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/0020hotfix.zip"
+      ],
+      "deletes": [
+        "/0020hotfix.zip"
+      ]
+    },
+    {
+      "version": "3.7.1",
+      "zips": [],
+      "deletes": [
+        "/0021.zip"
+      ]
+    },
+    {
+      "version": "3.7.3",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/0021.zip"
+      ],
+      "deletes": []
+    },
+    {
+      "version": "3.8.0",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/0021f.zip"
+      ],
+      "deletes": [
+        "/0021f.zip"
+      ]
+    },
+    {
+      "version": "3.8.1",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/00211.zip"
+      ],
+      "deletes": [
+        "/RetroRewind6/Tracks/120.szs",
+        "/RetroRewind6/Tracks/121.szs",
+        "/RetroRewind6/Tracks/122.szs",
+        "/RetroRewind6/Tracks/123.szs",
+        "/RetroRewind6/Tracks/124.szs",
+        "/RetroRewind6/Tracks/125.szs",
+        "/RetroRewind6/Tracks/126.szs",
+        "/RetroRewind6/Tracks/127.szs",
+        "/RetroRewind6/Tracks/128.szs",
+        "/RetroRewind6/Tracks/129.szs",
+        "/RetroRewind6/Tracks/130.szs",
+        "/RetroRewind6/Tracks/131.szs",
+        "/RetroRewind6/Tracks/132.szs",
+        "/RetroRewind6/Tracks/133.szs",
+        "/RetroRewind6/Tracks/134.szs",
+        "/RetroRewind6/Tracks/135.szs",
+        "/RetroRewind6/Tracks/136.szs",
+        "/RetroRewind6/Tracks/137.szs",
+        "/RetroRewind6/Tracks/138.szs",
+        "/RetroRewind6/Tracks/139.szs",
+        "/RetroRewind6/Tracks/140.szs",
+        "/RetroRewind6/Tracks/141.szs",
+        "/RetroRewind6/Tracks/142.szs",
+        "/RetroRewind6/Tracks/143.szs",
+        "/RetroRewind6/Tracks/144.szs",
+        "/RetroRewind6/Tracks/145.szs",
+        "/RetroRewind6/Tracks/146.szs",
+        "/RetroRewind6/Tracks/147.szs",
+        "/RetroRewind6/Tracks/148.szs",
+        "/RetroRewind6/Tracks/149.szs",
+        "/RetroRewind6/Tracks/150.szs",
+        "/RetroRewind6/Tracks/151.szs",
+        "/RetroRewind6/Tracks/152.szs",
+        "/RetroRewind6/Tracks/153.szs",
+        "/RetroRewind6/Tracks/154.szs",
+        "/RetroRewind6/Tracks/155.szs",
+        "/RetroRewind6/Tracks/156.szs",
+        "/RetroRewind6/Tracks/157.szs",
+        "/RetroRewind6/Tracks/158.szs",
+        "/RetroRewind6/Tracks/159.szs",
+        "/RetroRewind6/Tracks/160.szs",
+        "/RetroRewind6/Tracks/161.szs",
+        "/RetroRewind6/Tracks/162.szs",
+        "/RetroRewind6/Tracks/163.szs",
+        "/RetroRewind6/Tracks/164.szs",
+        "/RetroRewind6/Tracks/165.szs",
+        "/RetroRewind6/Tracks/166.szs",
+        "/RetroRewind6/Tracks/167.szs",
+        "/RetroRewind6/strm/120_N.brstm",
+        "/RetroRewind6/strm/121_N.brstm",
+        "/RetroRewind6/strm/122_N.brstm",
+        "/RetroRewind6/strm/123_N.brstm",
+        "/RetroRewind6/strm/124_N.brstm",
+        "/RetroRewind6/strm/125_N.brstm",
+        "/RetroRewind6/strm/126_N.brstm",
+        "/RetroRewind6/strm/127_N.brstm",
+        "/RetroRewind6/strm/128_N.brstm",
+        "/RetroRewind6/strm/129_N.brstm",
+        "/RetroRewind6/strm/130_N.brstm",
+        "/RetroRewind6/strm/131_N.brstm",
+        "/RetroRewind6/strm/132_N.brstm",
+        "/RetroRewind6/strm/133_N.brstm",
+        "/RetroRewind6/strm/134_N.brstm",
+        "/RetroRewind6/strm/135_N.brstm",
+        "/RetroRewind6/strm/136_N.brstm",
+        "/RetroRewind6/strm/137_N.brstm",
+        "/RetroRewind6/strm/138_N.brstm",
+        "/RetroRewind6/strm/139_N.brstm",
+        "/RetroRewind6/strm/140_N.brstm",
+        "/RetroRewind6/strm/141_N.brstm",
+        "/RetroRewind6/strm/142_N.brstm",
+        "/RetroRewind6/strm/143_N.brstm",
+        "/RetroRewind6/strm/144_N.brstm",
+        "/RetroRewind6/strm/145_N.brstm",
+        "/RetroRewind6/strm/146_N.brstm",
+        "/RetroRewind6/strm/147_N.brstm",
+        "/RetroRewind6/strm/148_N.brstm",
+        "/RetroRewind6/strm/149_N.brstm",
+        "/RetroRewind6/strm/150_N.brstm",
+        "/RetroRewind6/strm/151_N.brstm",
+        "/RetroRewind6/strm/152_N.brstm",
+        "/RetroRewind6/strm/153_N.brstm",
+        "/RetroRewind6/strm/154_N.brstm",
+        "/RetroRewind6/strm/155_N.brstm",
+        "/RetroRewind6/strm/156_N.brstm",
+        "/RetroRewind6/strm/157_N.brstm",
+        "/RetroRewind6/strm/158_N.brstm",
+        "/RetroRewind6/strm/159_N.brstm",
+        "/RetroRewind6/strm/160_N.brstm",
+        "/RetroRewind6/strm/161_N.brstm",
+        "/RetroRewind6/strm/162_N.brstm",
+        "/RetroRewind6/strm/163_N.brstm",
+        "/RetroRewind6/strm/164_N.brstm",
+        "/RetroRewind6/strm/165_N.brstm",
+        "/RetroRewind6/strm/166_N.brstm",
+        "/RetroRewind6/strm/167_N.brstm",
+        "/RetroRewind6/strm/120_F.brstm",
+        "/RetroRewind6/strm/121_F.brstm",
+        "/RetroRewind6/strm/122_F.brstm",
+        "/RetroRewind6/strm/123_F.brstm",
+        "/RetroRewind6/strm/124_F.brstm",
+        "/RetroRewind6/strm/125_F.brstm",
+        "/RetroRewind6/strm/126_F.brstm",
+        "/RetroRewind6/strm/127_F.brstm",
+        "/RetroRewind6/strm/128_F.brstm",
+        "/RetroRewind6/strm/129_F.brstm",
+        "/RetroRewind6/strm/130_F.brstm",
+        "/RetroRewind6/strm/131_F.brstm",
+        "/RetroRewind6/strm/132_F.brstm",
+        "/RetroRewind6/strm/133_F.brstm",
+        "/RetroRewind6/strm/134_F.brstm",
+        "/RetroRewind6/strm/135_F.brstm",
+        "/RetroRewind6/strm/136_F.brstm",
+        "/RetroRewind6/strm/137_F.brstm",
+        "/RetroRewind6/strm/138_F.brstm",
+        "/RetroRewind6/strm/139_F.brstm",
+        "/RetroRewind6/strm/140_F.brstm",
+        "/RetroRewind6/strm/141_F.brstm",
+        "/RetroRewind6/strm/142_F.brstm",
+        "/RetroRewind6/strm/143_F.brstm",
+        "/RetroRewind6/strm/144_F.brstm",
+        "/RetroRewind6/strm/145_F.brstm",
+        "/RetroRewind6/strm/146_F.brstm",
+        "/RetroRewind6/strm/147_F.brstm",
+        "/RetroRewind6/strm/148_F.brstm",
+        "/RetroRewind6/strm/149_F.brstm",
+        "/RetroRewind6/strm/150_F.brstm",
+        "/RetroRewind6/strm/151_F.brstm",
+        "/RetroRewind6/strm/152_F.brstm",
+        "/RetroRewind6/strm/153_F.brstm",
+        "/RetroRewind6/strm/154_F.brstm",
+        "/RetroRewind6/strm/155_F.brstm",
+        "/RetroRewind6/strm/156_F.brstm",
+        "/RetroRewind6/strm/157_F.brstm",
+        "/RetroRewind6/strm/158_F.brstm",
+        "/RetroRewind6/strm/159_F.brstm",
+        "/RetroRewind6/strm/160_F.brstm",
+        "/RetroRewind6/strm/161_F.brstm",
+        "/RetroRewind6/strm/162_F.brstm",
+        "/RetroRewind6/strm/163_F.brstm",
+        "/RetroRewind6/strm/164_F.brstm",
+        "/RetroRewind6/strm/165_F.brstm",
+        "/RetroRewind6/strm/166_F.brstm",
+        "/RetroRewind6/strm/167_F.brstm",
+        "/RetroRewind6/Binaries/TTCode.pul",
+        "/RetroRewind6/Binaries/TTConfig.pul",
+        "/00211.zip"
+      ]
+    },
+    {
+      "version": "3.8.5",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/0022.zip"
+      ],
+      "deletes": [
+        "/0022.zip"
+      ]
+    },
+    {
+      "version": "3.8.6",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/00221.zip"
+      ],
+      "deletes": [
+        "/00221.zip"
+      ]
+    },
+    {
+      "version": "3.8.8",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/0023.zip"
+      ],
+      "deletes": [
+        "/0023.zip"
+      ]
+    },
+    {
+      "version": "3.8.9",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/00231.zip"
+      ],
+      "deletes": [
+        "/00231.zip"
+      ]
+    },
+    {
+      "version": "3.9.1",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/0024.zip"
+      ],
+      "deletes": [
+        "/0024.zip"
+      ]
+    },
+    {
+      "version": "3.9.2",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/00241.zip"
+      ],
+      "deletes": [
+        "/00241.zip"
+      ]
+    },
+    {
+      "version": "4.0.0",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/1000.zip",
+        "https://cdn.update.rwfc.net/RetroRewind/zip/1000Music.zip"
+      ],
+      "deletes": [
+        "/RetroRewind6/strm/0_F.brstm",
+        "/RetroRewind6/strm/0_N.brstm",
+        "/RetroRewind6/strm/104_F.brstm",
+        "/RetroRewind6/strm/104_N.brstm",
+        "/RetroRewind6/strm/105_F.brstm",
+        "/RetroRewind6/strm/105_N.brstm",
+        "/RetroRewind6/strm/106_F.brstm",
+        "/RetroRewind6/strm/106_N.brstm",
+        "/RetroRewind6/strm/107_F.brstm",
+        "/RetroRewind6/strm/107_N.brstm",
+        "/RetroRewind6/strm/108_F.brstm",
+        "/RetroRewind6/strm/108_N.brstm",
+        "/RetroRewind6/strm/109_F.brstm",
+        "/RetroRewind6/strm/109_N.brstm",
+        "/RetroRewind6/strm/10_F.brstm",
+        "/RetroRewind6/strm/10_N.brstm",
+        "/RetroRewind6/strm/110_F.brstm",
+        "/RetroRewind6/strm/110_N.brstm",
+        "/RetroRewind6/strm/111_F.brstm",
+        "/RetroRewind6/strm/111_N.brstm",
+        "/RetroRewind6/strm/112_F.brstm",
+        "/RetroRewind6/strm/112_N.brstm",
+        "/RetroRewind6/strm/113_F.brstm",
+        "/RetroRewind6/strm/113_N.brstm",
+        "/RetroRewind6/strm/114_F.brstm",
+        "/RetroRewind6/strm/114_N.brstm",
+        "/RetroRewind6/strm/115_F.brstm",
+        "/RetroRewind6/strm/115_N.brstm",
+        "/RetroRewind6/strm/116_F.brstm",
+        "/RetroRewind6/strm/116_N.brstm",
+        "/RetroRewind6/strm/117_F.brstm",
+        "/RetroRewind6/strm/117_N.brstm",
+        "/RetroRewind6/strm/118_F.brstm",
+        "/RetroRewind6/strm/118_N.brstm",
+        "/RetroRewind6/strm/119_F.brstm",
+        "/RetroRewind6/strm/119_N.brstm",
+        "/RetroRewind6/strm/11_F.brstm",
+        "/RetroRewind6/strm/11_N.brstm",
+        "/RetroRewind6/strm/120_F.brstm",
+        "/RetroRewind6/strm/120_N.brstm",
+        "/RetroRewind6/strm/121_F.brstm",
+        "/RetroRewind6/strm/121_N.brstm",
+        "/RetroRewind6/strm/122_F.brstm",
+        "/RetroRewind6/strm/122_N.brstm",
+        "/RetroRewind6/strm/123_F.brstm",
+        "/RetroRewind6/strm/123_N.brstm",
+        "/RetroRewind6/strm/124_F.brstm",
+        "/RetroRewind6/strm/124_N.brstm",
+        "/RetroRewind6/strm/125_F.brstm",
+        "/RetroRewind6/strm/125_N.brstm",
+        "/RetroRewind6/strm/126_F.brstm",
+        "/RetroRewind6/strm/126_N.brstm",
+        "/RetroRewind6/strm/127_F.brstm",
+        "/RetroRewind6/strm/127_N.brstm",
+        "/RetroRewind6/strm/128_F.brstm",
+        "/RetroRewind6/strm/128_N.brstm",
+        "/RetroRewind6/strm/129_F.brstm",
+        "/RetroRewind6/strm/129_N.brstm",
+        "/RetroRewind6/strm/12_F.brstm",
+        "/RetroRewind6/strm/12_N.brstm",
+        "/RetroRewind6/strm/130_F.brstm",
+        "/RetroRewind6/strm/130_N.brstm",
+        "/RetroRewind6/strm/131_F.brstm",
+        "/RetroRewind6/strm/131_N.brstm",
+        "/RetroRewind6/strm/132_F.brstm",
+        "/RetroRewind6/strm/132_N.brstm",
+        "/RetroRewind6/strm/133_F.brstm",
+        "/RetroRewind6/strm/133_N.brstm",
+        "/RetroRewind6/strm/134_F.brstm",
+        "/RetroRewind6/strm/134_N.brstm",
+        "/RetroRewind6/strm/135_F.brstm",
+        "/RetroRewind6/strm/135_N.brstm",
+        "/RetroRewind6/strm/136_F.brstm",
+        "/RetroRewind6/strm/136_N.brstm",
+        "/RetroRewind6/strm/137_F.brstm",
+        "/RetroRewind6/strm/137_N.brstm",
+        "/RetroRewind6/strm/138_F.brstm",
+        "/RetroRewind6/strm/138_N.brstm",
+        "/RetroRewind6/strm/139_F.brstm",
+        "/RetroRewind6/strm/139_N.brstm",
+        "/RetroRewind6/strm/13_F.brstm",
+        "/RetroRewind6/strm/13_N.brstm",
+        "/RetroRewind6/strm/140_F.brstm",
+        "/RetroRewind6/strm/140_N.brstm",
+        "/RetroRewind6/strm/141_F.brstm",
+        "/RetroRewind6/strm/141_N.brstm",
+        "/RetroRewind6/strm/142_F.brstm",
+        "/RetroRewind6/strm/142_N.brstm",
+        "/RetroRewind6/strm/143_F.brstm",
+        "/RetroRewind6/strm/143_N.brstm",
+        "/RetroRewind6/strm/144_F.brstm",
+        "/RetroRewind6/strm/144_N.brstm",
+        "/RetroRewind6/strm/145_F.brstm",
+        "/RetroRewind6/strm/145_N.brstm",
+        "/RetroRewind6/strm/146_F.brstm",
+        "/RetroRewind6/strm/146_N.brstm",
+        "/RetroRewind6/strm/147_F.brstm",
+        "/RetroRewind6/strm/147_N.brstm",
+        "/RetroRewind6/strm/148_F.brstm",
+        "/RetroRewind6/strm/148_N.brstm",
+        "/RetroRewind6/strm/149_F.brstm",
+        "/RetroRewind6/strm/149_N.brstm",
+        "/RetroRewind6/strm/14_F.brstm",
+        "/RetroRewind6/strm/14_N.brstm",
+        "/RetroRewind6/strm/150_F.brstm",
+        "/RetroRewind6/strm/150_N.brstm",
+        "/RetroRewind6/strm/151_F.brstm",
+        "/RetroRewind6/strm/151_N.brstm",
+        "/RetroRewind6/strm/15_F.brstm",
+        "/RetroRewind6/strm/15_N.brstm",
+        "/RetroRewind6/strm/16_F.brstm",
+        "/RetroRewind6/strm/16_N.brstm",
+        "/RetroRewind6/strm/17_F.brstm",
+        "/RetroRewind6/strm/17_N.brstm",
+        "/RetroRewind6/strm/18_F.brstm",
+        "/RetroRewind6/strm/18_N.brstm",
+        "/RetroRewind6/strm/19_F.brstm",
+        "/RetroRewind6/strm/19_N.brstm",
+        "/RetroRewind6/strm/1_F.brstm",
+        "/RetroRewind6/strm/1_N.brstm",
+        "/RetroRewind6/strm/20_F.brstm",
+        "/RetroRewind6/strm/20_N.brstm",
+        "/RetroRewind6/strm/21_F.brstm",
+        "/RetroRewind6/strm/21_N.brstm",
+        "/RetroRewind6/strm/22_F.brstm",
+        "/RetroRewind6/strm/22_N.brstm",
+        "/RetroRewind6/strm/23_F.brstm",
+        "/RetroRewind6/strm/23_N.brstm",
+        "/RetroRewind6/strm/24_F.brstm",
+        "/RetroRewind6/strm/24_N.brstm",
+        "/RetroRewind6/strm/25_F.brstm",
+        "/RetroRewind6/strm/25_N.brstm",
+        "/RetroRewind6/strm/26_F.brstm",
+        "/RetroRewind6/strm/26_N.brstm",
+        "/RetroRewind6/strm/28_F.brstm",
+        "/RetroRewind6/strm/28_N.brstm",
+        "/RetroRewind6/strm/2_F.brstm",
+        "/RetroRewind6/strm/2_N.brstm",
+        "/RetroRewind6/strm/30_F.brstm",
+        "/RetroRewind6/strm/30_N.brstm",
+        "/RetroRewind6/strm/33_F.brstm",
+        "/RetroRewind6/strm/33_N.brstm",
+        "/RetroRewind6/strm/34_F.brstm",
+        "/RetroRewind6/strm/34_N.brstm",
+        "/RetroRewind6/strm/35_F.brstm",
+        "/RetroRewind6/strm/35_N.brstm",
+        "/RetroRewind6/strm/36_F.brstm",
+        "/RetroRewind6/strm/36_N.brstm",
+        "/RetroRewind6/strm/38_F.brstm",
+        "/RetroRewind6/strm/38_N.brstm",
+        "/RetroRewind6/strm/39_F.brstm",
+        "/RetroRewind6/strm/39_N.brstm",
+        "/RetroRewind6/strm/3_F.brstm",
+        "/RetroRewind6/strm/3_N.brstm",
+        "/RetroRewind6/strm/40_F.brstm",
+        "/RetroRewind6/strm/40_N.brstm",
+        "/RetroRewind6/strm/41_F.brstm",
+        "/RetroRewind6/strm/41_N.brstm",
+        "/RetroRewind6/strm/42_F.brstm",
+        "/RetroRewind6/strm/42_N.brstm",
+        "/RetroRewind6/strm/43_F.brstm",
+        "/RetroRewind6/strm/43_N.brstm",
+        "/RetroRewind6/strm/44_F.brstm",
+        "/RetroRewind6/strm/44_N.brstm",
+        "/RetroRewind6/strm/45_F.brstm",
+        "/RetroRewind6/strm/45_N.brstm",
+        "/RetroRewind6/strm/46_F.brstm",
+        "/RetroRewind6/strm/46_N.brstm",
+        "/RetroRewind6/strm/47_F.brstm",
+        "/RetroRewind6/strm/47_N.brstm",
+        "/RetroRewind6/strm/48_F.brstm",
+        "/RetroRewind6/strm/48_N.brstm",
+        "/RetroRewind6/strm/49_F.brstm",
+        "/RetroRewind6/strm/49_N.brstm",
+        "/RetroRewind6/strm/4_F.brstm",
+        "/RetroRewind6/strm/4_N.brstm",
+        "/RetroRewind6/strm/50_F.brstm",
+        "/RetroRewind6/strm/50_N.brstm",
+        "/RetroRewind6/strm/52_F.brstm",
+        "/RetroRewind6/strm/52_N.brstm",
+        "/RetroRewind6/strm/53_F.brstm",
+        "/RetroRewind6/strm/53_N.brstm",
+        "/RetroRewind6/strm/54_F.brstm",
+        "/RetroRewind6/strm/54_N.brstm",
+        "/RetroRewind6/strm/55_F.brstm",
+        "/RetroRewind6/strm/55_N.brstm",
+        "/RetroRewind6/strm/56_F.brstm",
+        "/RetroRewind6/strm/56_N.brstm",
+        "/RetroRewind6/strm/58_F.brstm",
+        "/RetroRewind6/strm/58_N.brstm",
+        "/RetroRewind6/strm/59_F.brstm",
+        "/RetroRewind6/strm/59_N.brstm",
+        "/RetroRewind6/strm/5_F.brstm",
+        "/RetroRewind6/strm/5_N.brstm",
+        "/RetroRewind6/strm/60_F.brstm",
+        "/RetroRewind6/strm/60_N.brstm",
+        "/RetroRewind6/strm/62_F.brstm",
+        "/RetroRewind6/strm/62_N.brstm",
+        "/RetroRewind6/strm/64_F.brstm",
+        "/RetroRewind6/strm/64_N.brstm",
+        "/RetroRewind6/strm/65_F.brstm",
+        "/RetroRewind6/strm/65_N.brstm",
+        "/RetroRewind6/strm/66_F.brstm",
+        "/RetroRewind6/strm/66_N.brstm",
+        "/RetroRewind6/strm/68_F.brstm",
+        "/RetroRewind6/strm/68_N.brstm",
+        "/RetroRewind6/strm/69_F.brstm",
+        "/RetroRewind6/strm/69_N.brstm",
+        "/RetroRewind6/strm/70_F.brstm",
+        "/RetroRewind6/strm/70_N.brstm",
+        "/RetroRewind6/strm/71_F.brstm",
+        "/RetroRewind6/strm/71_N.brstm",
+        "/RetroRewind6/strm/72_F.brstm",
+        "/RetroRewind6/strm/72_N.brstm",
+        "/RetroRewind6/strm/74_F.brstm",
+        "/RetroRewind6/strm/74_N.brstm",
+        "/RetroRewind6/strm/75_F.brstm",
+        "/RetroRewind6/strm/75_N.brstm",
+        "/RetroRewind6/strm/78_F.brstm",
+        "/RetroRewind6/strm/78_N.brstm",
+        "/RetroRewind6/strm/79_F.brstm",
+        "/RetroRewind6/strm/79_N.brstm",
+        "/RetroRewind6/strm/7_F.brstm",
+        "/RetroRewind6/strm/7_N.brstm",
+        "/RetroRewind6/strm/80_F.brstm",
+        "/RetroRewind6/strm/80_N.brstm",
+        "/RetroRewind6/strm/81_F.brstm",
+        "/RetroRewind6/strm/81_N.brstm",
+        "/RetroRewind6/strm/82_F.brstm",
+        "/RetroRewind6/strm/82_N.brstm",
+        "/RetroRewind6/strm/83_F.brstm",
+        "/RetroRewind6/strm/83_N.brstm",
+        "/RetroRewind6/strm/84_F.brstm",
+        "/RetroRewind6/strm/84_N.brstm",
+        "/RetroRewind6/strm/86_F.brstm",
+        "/RetroRewind6/strm/86_N.brstm",
+        "/RetroRewind6/strm/87_F.brstm",
+        "/RetroRewind6/strm/87_N.brstm",
+        "/RetroRewind6/strm/8_F.brstm",
+        "/RetroRewind6/strm/8_N.brstm",
+        "/RetroRewind6/strm/dsDC_F.brstm",
+        "/RetroRewind6/strm/dsDC_N.brstm",
+        "/RetroRewind6/strm/dsDS_F.brstm",
+        "/RetroRewind6/strm/dsDS_N.brstm",
+        "/RetroRewind6/strm/dsNB_F.brstm",
+        "/RetroRewind6/strm/dsNB_N.brstm",
+        "/RetroRewind6/strm/gpBC_F.brstm",
+        "/RetroRewind6/strm/gpBC_N.brstm",
+        "/RetroRewind6/strm/gpBR_F.brstm",
+        "/RetroRewind6/strm/gpBR_N.brstm",
+        "/RetroRewind6/strm/gpCW_F.brstm",
+        "/RetroRewind6/strm/gpCW_N.brstm",
+        "/RetroRewind6/strm/gpMB_F.brstm",
+        "/RetroRewind6/strm/gpMB_N.brstm",
+        "/RetroRewind6/strm/gpSP_F.brstm",
+        "/RetroRewind6/strm/gpSP_N.brstm",
+        "/RetroRewind6/strm/rBC1_F.brstm",
+        "/RetroRewind6/strm/rBC1_N.brstm",
+        "/RetroRewind6/strm/rCI1_F.brstm",
+        "/RetroRewind6/strm/rCI1_N.brstm",
+        "/RetroRewind6/strm/rDP1_F.brstm",
+        "/RetroRewind6/strm/rDP1_N.brstm",
+        "/RetroRewind6/strm/rGV1_F.brstm",
+        "/RetroRewind6/strm/rGV1_N.brstm",
+        "/RetroRewind6/strm/rMC1_F.brstm",
+        "/RetroRewind6/strm/rMC1_N.brstm",
+        "/RetroRewind6/strm/rRR1_F.brstm",
+        "/RetroRewind6/strm/rRR1_N.brstm",
+        "/RetroRewind6/strm/rRR2_F.brstm",
+        "/RetroRewind6/strm/rRR2_N.brstm",
+        "/RetroRewind6/strm/rVL1_F.brstm",
+        "/RetroRewind6/strm/rVL1_N.brstm",
+        "/RetroRewind6/strm/rVL2_F.brstm",
+        "/RetroRewind6/strm/rVL2_N.brstm",
+        "/RetroRewind6/strm/sfcDP1_F.brstm",
+        "/RetroRewind6/strm/sfcDP1_N.brstm",
+        "/RetroRewind6/strm/sSHS_F.brstm",
+        "/RetroRewind6/strm/sSHS_N.brstm",
+        "/RetroRewind6/strm/sYI_F.brstm",
+        "/RetroRewind6/strm/sYI_N.brstm",
+        "/RetroRewind6/strm/tMD_F.brstm",
+        "/RetroRewind6/strm/tMD_N.brstm",
+        "/RetroRewind6/strm/tMM_F.brstm",
+        "/RetroRewind6/strm/tMM_N.brstm",
+        "/RetroRewind6/strm/tNH_F.brstm",
+        "/RetroRewind6/strm/tNH_N.brstm",
+        "/RetroRewind6/strm/trBC3_F.brstm",
+        "/RetroRewind6/strm/trBC3_N.brstm",
+        "/RetroRewind6/strm/trBL_F.brstm",
+        "/RetroRewind6/strm/trBL_N.brstm",
+        "/RetroRewind6/strm/trCCI_F.brstm",
+        "/RetroRewind6/strm/trCCI_N.brstm",
+        "/RetroRewind6/strm/trCM_F.brstm",
+        "/RetroRewind6/strm/trCM_N.brstm",
+        "/RetroRewind6/strm/trLP_F.brstm",
+        "/RetroRewind6/strm/trLP_N.brstm",
+        "/RetroRewind6/strm/trPC_F.brstm",
+        "/RetroRewind6/strm/trPC_N.brstm",
+        "/RetroRewind6/strm/trRP_F.brstm",
+        "/RetroRewind6/strm/trRP_N.brstm",
+        "/RetroRewind6/strm/trSG_F.brstm",
+        "/RetroRewind6/strm/trSG_N.brstm",
+        "/RetroRewind6/strm/trSL_F.brstm",
+        "/RetroRewind6/strm/trSL_N.brstm",
+        "/RetroRewind6/strm/trSW_F.brstm",
+        "/RetroRewind6/strm/trSW_N.brstm",
+        "/RetroRewind6/strm/tTB_F.brstm",
+        "/RetroRewind6/strm/tTB_N.brstm",
+        "/RetroRewind6/strm/uAC_F.brstm",
+        "/RetroRewind6/strm/uAC_N.brstm",
+        "/RetroRewind6/strm/uBB_F.brstm",
+        "/RetroRewind6/strm/uBB_N.brstm",
+        "/RetroRewind6/strm/uBC_F.brstm",
+        "/RetroRewind6/strm/uBC_N.brstm",
+        "/RetroRewind6/strm/uBDD_F.brstm",
+        "/RetroRewind6/strm/uBDD_N.brstm",
+        "/RetroRewind6/strm/uCC_F.brstm",
+        "/RetroRewind6/strm/uCC_N.brstm",
+        "/RetroRewind6/strm/uCL_F.brstm",
+        "/RetroRewind6/strm/uCL_N.brstm",
+        "/RetroRewind6/strm/uDS_F.brstm",
+        "/RetroRewind6/strm/uDS_N.brstm",
+        "/RetroRewind6/strm/uEA_F.brstm",
+        "/RetroRewind6/strm/uEA_N.brstm",
+        "/RetroRewind6/strm/uE_F.brstm",
+        "/RetroRewind6/strm/uE_N.brstm",
+        "/RetroRewind6/strm/uHC_F.brstm",
+        "/RetroRewind6/strm/uHC_N.brstm",
+        "/RetroRewind6/strm/uMC_F.brstm",
+        "/RetroRewind6/strm/uMC_N.brstm",
+        "/RetroRewind6/strm/uMKS_F.brstm",
+        "/RetroRewind6/strm/uMKS_N.brstm",
+        "/RetroRewind6/strm/uMW_N.brstm",
+        "/RetroRewind6/strm/urDDD_F.brstm",
+        "/RetroRewind6/strm/urDDD_N.brstm",
+        "/RetroRewind6/strm/urRiR_F.brstm",
+        "/RetroRewind6/strm/urRiR_N.brstm",
+        "/RetroRewind6/strm/urRR_F.brstm",
+        "/RetroRewind6/strm/urRR_N.brstm",
+        "/RetroRewind6/strm/uRR_F.brstm",
+        "/RetroRewind6/strm/uRR_N.brstm",
+        "/RetroRewind6/strm/uSGF_F.brstm",
+        "/RetroRewind6/strm/uSGF_N.brstm",
+        "/RetroRewind6/strm/uSSC_F.brstm",
+        "/RetroRewind6/strm/uSSC_N.brstm",
+        "/RetroRewind6/strm/uTH_F.brstm",
+        "/RetroRewind6/strm/uTH_N.brstm",
+        "/RetroRewind6/strm/uTM_F.brstm",
+        "/RetroRewind6/strm/uTM_N.brstm",
+        "/RetroRewind6/strm/uTR_F.brstm",
+        "/RetroRewind6/strm/uTR_N.brstm",
+        "/RetroRewind6/UI/Award_D.szs",
+        "/RetroRewind6/UI/Award_F.szs",
+        "/RetroRewind6/UI/Award_FI.szs",
+        "/RetroRewind6/UI/Award_G.szs",
+        "/RetroRewind6/UI/Award_I.szs",
+        "/RetroRewind6/UI/Award_J.szs",
+        "/RetroRewind6/UI/Award_K.szs",
+        "/RetroRewind6/UI/Award_S.szs",
+        "/RetroRewind6/UI/Race.szs",
+        "/RetroRewind6/UI/Race_D.szs",
+        "/RetroRewind6/UI/Race_F.szs",
+        "/RetroRewind6/UI/Race_FI.szs",
+        "/RetroRewind6/UI/Race_G.szs",
+        "/RetroRewind6/UI/Race_I.szs",
+        "/RetroRewind6/UI/Race_J.szs",
+        "/RetroRewind6/UI/Race_K.szs",
+        "/RetroRewind6/UI/Race_S.szs"
+      ]
+    },
+    {
+      "version": "4.0.1",
+      "zips": [],
+      "deletes": [
+        "/1000fix1.zip"
+      ]
+    },
+    {
+      "version": "4.0.2",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/1000fix1.zip"
+      ],
+      "deletes": [
+        "/RetroRewind6/rel/E/StaticR.rel",
+        "/RetroRewind6/rel/K/StaticR.rel",
+        "/RetroRewind6/rel/J/StaticR.rel",
+        "/RetroRewind6/rel/P/StaticR.rel"
+      ]
+    },
+    {
+      "version": "4.0.3",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/1000fix2.zip"
+      ],
+      "deletes": [
+        "/1000fix2.zip"
+      ]
+    },
+    {
+      "version": "4.0.4",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/1000fix3.zip"
+      ],
+      "deletes": [
+        "/1000fix3.zip"
+      ]
+    },
+    {
+      "version": "4.0.5",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/1.1.zip"
+      ],
+      "deletes": [
+        "/1.1.zip"
+      ]
+    },
+    {
+      "version": "4.0.6",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/1.1-hotfix.zip"
+      ],
+      "deletes": [
+        "/1.1-hotfix.zip"
+      ]
+    },
+    {
+      "version": "4.0.8",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/1.2.zip"
+      ],
+      "deletes": [
+        "/1.2.zip"
+      ]
+    },
+    {
+      "version": "4.0.9",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/1.2-xml.zip"
+      ],
+      "deletes": [
+        "/1.2-xml.zip"
+      ]
+    },
+    {
+      "version": "4.1.0",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/1.2-hotfix.zip"
+      ],
+      "deletes": [
+        "/1.2-hotfix.zip"
+      ]
+    },
+    {
+      "version": "4.1.3",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/1.3.zip"
+      ],
+      "deletes": [
+        "/1.3.zip"
+      ]
+    },
+    {
+      "version": "4.1.4",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/1.3-xml.zip"
+      ],
+      "deletes": [
+        "/1.3-xml.zip"
+      ]
+    },
+    {
+      "version": "4.1.5",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/1.4.zip"
+      ],
+      "deletes": [
+        "/RetroRewind6/CT/Tracks/0.szs",
+        "/RetroRewind6/CT/Tracks/1.szs",
+        "/RetroRewind6/CT/Tracks/2.szs",
+        "/RetroRewind6/CT/Tracks/3.szs",
+        "/RetroRewind6/CT/Tracks/4.szs",
+        "/RetroRewind6/CT/Tracks/5.szs",
+        "/RetroRewind6/CT/Tracks/6.szs",
+        "/RetroRewind6/CT/Tracks/7.szs",
+        "/RetroRewind6/CT/Tracks/8.szs",
+        "/RetroRewind6/CT/Tracks/9.szs",
+        "/RetroRewind6/CT/Tracks/10.szs",
+        "/RetroRewind6/CT/Tracks/11.szs",
+        "/RetroRewind6/CT/Tracks/12.szs",
+        "/RetroRewind6/CT/Tracks/13.szs",
+        "/RetroRewind6/CT/Tracks/14.szs",
+        "/RetroRewind6/CT/Tracks/15.szs",
+        "/RetroRewind6/CT/Tracks/16.szs",
+        "/RetroRewind6/CT/Tracks/17.szs",
+        "/RetroRewind6/CT/Tracks/18.szs",
+        "/RetroRewind6/CT/Tracks/19.szs",
+        "/RetroRewind6/CT/Tracks/20.szs",
+        "/RetroRewind6/CT/Tracks/21.szs",
+        "/RetroRewind6/CT/Tracks/22.szs",
+        "/RetroRewind6/CT/Tracks/23.szs",
+        "/RetroRewind6/CT/Tracks/24.szs",
+        "/RetroRewind6/CT/Tracks/25.szs",
+        "/RetroRewind6/CT/Tracks/26.szs",
+        "/RetroRewind6/CT/Tracks/27.szs",
+        "/RetroRewind6/CT/Tracks/28.szs",
+        "/RetroRewind6/CT/Tracks/29.szs",
+        "/RetroRewind6/CT/Tracks/30.szs",
+        "/RetroRewind6/CT/Tracks/31.szs",
+        "/RetroRewind6/CT/Tracks/32.szs",
+        "/RetroRewind6/CT/Tracks/33.szs",
+        "/RetroRewind6/CT/Tracks/34.szs",
+        "/RetroRewind6/CT/Tracks/35.szs",
+        "/RetroRewind6/CT/Tracks/36.szs",
+        "/RetroRewind6/CT/Tracks/37.szs",
+        "/RetroRewind6/CT/Tracks/38.szs",
+        "/RetroRewind6/CT/Tracks/39.szs",
+        "/RetroRewind6/CT/Tracks/40.szs",
+        "/RetroRewind6/CT/Tracks/41.szs",
+        "/RetroRewind6/CT/Tracks/42.szs",
+        "/RetroRewind6/CT/Tracks/43.szs",
+        "/RetroRewind6/CT/Tracks/44.szs",
+        "/RetroRewind6/CT/Tracks/45.szs",
+        "/RetroRewind6/CT/Tracks/46.szs",
+        "/RetroRewind6/CT/Tracks/47.szs",
+        "/RetroRewind6/CT/Tracks/48.szs",
+        "/RetroRewind6/CT/Tracks/49.szs",
+        "/RetroRewind6/CT/Tracks/50.szs",
+        "/RetroRewind6/CT/Tracks/51.szs",
+        "/RetroRewind6/CT/Tracks/52.szs",
+        "/RetroRewind6/CT/Tracks/53.szs",
+        "/RetroRewind6/CT/Tracks/54.szs",
+        "/RetroRewind6/CT/Tracks/55.szs",
+        "/RetroRewind6/CT/Tracks/56.szs",
+        "/RetroRewind6/CT/Tracks/57.szs",
+        "/RetroRewind6/CT/Tracks/58.szs",
+        "/RetroRewind6/CT/Tracks/59.szs",
+        "/RetroRewind6/CT/Tracks/60.szs",
+        "/RetroRewind6/CT/Tracks/61.szs",
+        "/RetroRewind6/CT/Tracks/62.szs",
+        "/RetroRewind6/CT/Tracks/63.szs",
+        "/1.4.zip"
+      ]
+    },
+    {
+      "version": "4.1.7",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/1.4-hotfix.zip"
+      ],
+      "deletes": [
+        "/1.4-hotfix.zip"
+      ]
+    },
+    {
+      "version": "4.1.8",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/1.4.1.zip"
+      ],
+      "deletes": [
+        "/1.4.1.zip"
+      ]
+    },
+    {
+      "version": "4.2.0",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/1.5.zip"
+      ],
+      "deletes": [
+        "/1.5.zip"
+      ]
+    },
+    {
+      "version": "4.2.1",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/1.5h.zip"
+      ],
+      "deletes": [
+        "/1.5h.zip"
+      ]
+    },
+    {
+      "version": "4.2.2",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/1.6.zip"
+      ],
+      "deletes": [
+        "/1.6.zip"
+      ]
+    },
+    {
+      "version": "4.2.3",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/AprilFools.zip"
+      ],
+      "deletes": [
+        "/AprilFools.zip"
+      ]
+    },
+    {
+      "version": "4.2.4",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/1.6.1.zip"
+      ],
+      "deletes": [
+        "/1.6.1.zip"
+      ]
+    },
+    {
+      "version": "4.2.5",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/1.7.zip"
+      ],
+      "deletes": [
+        "/1.7.zip"
+      ]
+    },
+    {
+      "version": "4.2.6",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/1.7.1.zip"
+      ],
+      "deletes": [
+        "/1.7.1.zip"
+      ]
+    },
+    {
+      "version": "4.2.8",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/1.8.zip"
+      ],
+      "deletes": [
+        "/1.8.zip"
+      ]
+    },
+    {
+      "version": "4.3.0",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/1.8.1.zip"
+      ],
+      "deletes": [
+        "/1.8.1.zip"
+      ]
+    },
+    {
+      "version": "6.2.0",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/2.zip"
+      ],
+      "deletes": [
+        "/2.zip"
+      ]
+    },
+    {
+      "version": "6.2.2",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/2.1.zip"
+      ],
+      "deletes": [
+        "/2.1.zip"
+      ]
+    },
+    {
+      "version": "6.2.3",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/2.3.zip"
+      ],
+      "deletes": [
+        "/2.3.zip"
+      ]
+    },
+    {
+      "version": "6.3.0",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.3.zip"
+      ],
+      "deletes": [
+        "/RetroRewind6/strm/0_F.brstm",
+        "/RetroRewind6/strm/1_F.brstm",
+        "/RetroRewind6/strm/2_F.brstm",
+        "/RetroRewind6/strm/3_F.brstm",
+        "/RetroRewind6/strm/4_F.brstm",
+        "/RetroRewind6/strm/5_F.brstm",
+        "/RetroRewind6/strm/6_F.brstm",
+        "/RetroRewind6/strm/7_F.brstm",
+        "/RetroRewind6/strm/8_F.brstm",
+        "/RetroRewind6/strm/9_F.brstm",
+        "/RetroRewind6/strm/10_F.brstm",
+        "/RetroRewind6/strm/11_F.brstm",
+        "/RetroRewind6/strm/12_F.brstm",
+        "/RetroRewind6/strm/13_F.brstm",
+        "/RetroRewind6/strm/14_F.brstm",
+        "/RetroRewind6/strm/15_F.brstm",
+        "/RetroRewind6/strm/16_F.brstm",
+        "/RetroRewind6/strm/17_F.brstm",
+        "/RetroRewind6/strm/18_F.brstm",
+        "/RetroRewind6/strm/19_F.brstm",
+        "/RetroRewind6/strm/20_F.brstm",
+        "/RetroRewind6/strm/21_F.brstm",
+        "/RetroRewind6/strm/22_F.brstm",
+        "/RetroRewind6/strm/23_F.brstm",
+        "/RetroRewind6/strm/24_F.brstm",
+        "/RetroRewind6/strm/25_F.brstm",
+        "/RetroRewind6/strm/26_F.brstm",
+        "/RetroRewind6/strm/27_F.brstm",
+        "/RetroRewind6/strm/28_F.brstm",
+        "/RetroRewind6/strm/29_F.brstm",
+        "/RetroRewind6/strm/30_F.brstm",
+        "/RetroRewind6/strm/31_F.brstm",
+        "/RetroRewind6/strm/32_F.brstm",
+        "/RetroRewind6/strm/33_F.brstm",
+        "/RetroRewind6/strm/34_F.brstm",
+        "/RetroRewind6/strm/35_F.brstm",
+        "/RetroRewind6/strm/36_F.brstm",
+        "/RetroRewind6/strm/37_F.brstm",
+        "/RetroRewind6/strm/38_F.brstm",
+        "/RetroRewind6/strm/39_F.brstm",
+        "/RetroRewind6/strm/40_F.brstm",
+        "/RetroRewind6/strm/41_F.brstm",
+        "/RetroRewind6/strm/42_F.brstm",
+        "/RetroRewind6/strm/43_F.brstm",
+        "/RetroRewind6/strm/44_F.brstm",
+        "/RetroRewind6/strm/45_F.brstm",
+        "/RetroRewind6/strm/46_F.brstm",
+        "/RetroRewind6/strm/47_F.brstm",
+        "/RetroRewind6/strm/48_F.brstm",
+        "/RetroRewind6/strm/49_F.brstm",
+        "/RetroRewind6/strm/50_F.brstm",
+        "/RetroRewind6/strm/51_F.brstm",
+        "/RetroRewind6/strm/52_F.brstm",
+        "/RetroRewind6/strm/53_F.brstm",
+        "/RetroRewind6/strm/54_F.brstm",
+        "/RetroRewind6/strm/55_F.brstm",
+        "/RetroRewind6/strm/56_F.brstm",
+        "/RetroRewind6/strm/57_F.brstm",
+        "/RetroRewind6/strm/58_F.brstm",
+        "/RetroRewind6/strm/59_F.brstm",
+        "/RetroRewind6/strm/60_F.brstm",
+        "/RetroRewind6/strm/61_F.brstm",
+        "/RetroRewind6/strm/62_F.brstm",
+        "/RetroRewind6/strm/63_F.brstm",
+        "/RetroRewind6/strm/64_F.brstm",
+        "/RetroRewind6/strm/65_F.brstm",
+        "/RetroRewind6/strm/66_F.brstm",
+        "/RetroRewind6/strm/67_F.brstm",
+        "/RetroRewind6/strm/68_F.brstm",
+        "/RetroRewind6/strm/69_F.brstm",
+        "/RetroRewind6/strm/70_F.brstm",
+        "/RetroRewind6/strm/71_F.brstm",
+        "/RetroRewind6/strm/72_F.brstm",
+        "/RetroRewind6/strm/73_F.brstm",
+        "/RetroRewind6/strm/74_F.brstm",
+        "/RetroRewind6/strm/75_F.brstm",
+        "/RetroRewind6/strm/76_F.brstm",
+        "/RetroRewind6/strm/77_F.brstm",
+        "/RetroRewind6/strm/78_F.brstm",
+        "/RetroRewind6/strm/79_F.brstm",
+        "/RetroRewind6/strm/80_F.brstm",
+        "/RetroRewind6/strm/81_F.brstm",
+        "/RetroRewind6/strm/82_F.brstm",
+        "/RetroRewind6/strm/83_F.brstm",
+        "/RetroRewind6/strm/84_F.brstm",
+        "/RetroRewind6/strm/85_F.brstm",
+        "/RetroRewind6/strm/86_F.brstm",
+        "/RetroRewind6/strm/87_F.brstm",
+        "/RetroRewind6/strm/88_F.brstm",
+        "/RetroRewind6/strm/89_F.brstm",
+        "/RetroRewind6/strm/90_F.brstm",
+        "/RetroRewind6/strm/91_F.brstm",
+        "/RetroRewind6/strm/92_F.brstm",
+        "/RetroRewind6/strm/93_F.brstm",
+        "/RetroRewind6/strm/94_F.brstm",
+        "/RetroRewind6/strm/95_F.brstm",
+        "/RetroRewind6/strm/96_F.brstm",
+        "/RetroRewind6/strm/97_F.brstm",
+        "/RetroRewind6/strm/98_F.brstm",
+        "/RetroRewind6/strm/99_F.brstm",
+        "/RetroRewind6/strm/100_F.brstm",
+        "/RetroRewind6/strm/101_F.brstm",
+        "/RetroRewind6/strm/102_F.brstm",
+        "/RetroRewind6/strm/103_F.brstm",
+        "/RetroRewind6/strm/104_F.brstm",
+        "/RetroRewind6/strm/105_F.brstm",
+        "/RetroRewind6/strm/106_F.brstm",
+        "/RetroRewind6/strm/107_F.brstm",
+        "/RetroRewind6/strm/108_F.brstm",
+        "/RetroRewind6/strm/109_F.brstm",
+        "/RetroRewind6/strm/110_F.brstm",
+        "/RetroRewind6/strm/111_F.brstm",
+        "/RetroRewind6/strm/112_F.brstm",
+        "/RetroRewind6/strm/113_F.brstm",
+        "/RetroRewind6/strm/114_F.brstm",
+        "/RetroRewind6/strm/115_F.brstm",
+        "/RetroRewind6/strm/116_F.brstm",
+        "/RetroRewind6/strm/117_F.brstm",
+        "/RetroRewind6/strm/118_F.brstm",
+        "/RetroRewind6/strm/119_F.brstm",
+        "/RetroRewind6/strm/uMKS_F.brstm",
+        "/RetroRewind6/strm/uSSC_F.brstm",
+        "/RetroRewind6/strm/uTR_F.brstm",
+        "/RetroRewind6/strm/uMC_F.brstm",
+        "/RetroRewind6/strm/uTH_F.brstm",
+        "/RetroRewind6/strm/uTM_F.brstm",
+        "/RetroRewind6/strm/uSGF_F.brstm",
+        "/RetroRewind6/strm/uDS_F.brstm",
+        "/RetroRewind6/strm/uE_F.brstm",
+        "/RetroRewind6/strm/uMW_F.brstm",
+        "/RetroRewind6/strm/uCC_F.brstm",
+        "/RetroRewind6/strm/uBDD_F.brstm",
+        "/RetroRewind6/strm/uBC_F.brstm",
+        "/RetroRewind6/strm/uRR_F.brstm",
+        "/RetroRewind6/strm/urDDD_F.brstm",
+        "/RetroRewind6/strm/urRR_F.brstm",
+        "/RetroRewind6/strm/uMuC_F.brstm",
+        "/RetroRewind6/strm/uEA_F.brstm",
+        "/RetroRewind6/strm/uHC_F.brstm",
+        "/RetroRewind6/strm/uCL_F.brstm",
+        "/RetroRewind6/strm/uWW_F.brstm",
+        "/RetroRewind6/strm/uAC_F.brstm",
+        "/RetroRewind6/strm/urRiR_F.brstm",
+        "/RetroRewind6/strm/uBB_F.brstm",
+        "/RetroRewind6/strm/sSHS_F.brstm",
+        "/RetroRewind6/strm/sYI_F.brstm",
+        "/RetroRewind6/strm/sfcRR_F.brstm",
+        "/RetroRewind6/strm/gMC_F.brstm",
+        "/RetroRewind6/strm/tTB_F.brstm",
+        "/RetroRewind6/strm/tMD_F.brstm",
+        "/RetroRewind6/strm/tMM_F.brstm",
+        "/RetroRewind6/strm/tNH_F.brstm",
+        "/RetroRewind6/strm/rMC1_F.brstm",
+        "/RetroRewind6/strm/rCI1_F.brstm",
+        "/RetroRewind6/strm/rRR1_F.brstm",
+        "/RetroRewind6/strm/rRR2_F.brstm",
+        "/RetroRewind6/strm/rVL1_F.brstm",
+        "/RetroRewind6/strm/rVL2_F.brstm",
+        "/RetroRewind6/strm/rGV1_F.brstm",
+        "/RetroRewind6/strm/rBC1_F.brstm",
+        "/RetroRewind6/strm/rDP1_F.brstm",
+        "/RetroRewind6/strm/trBC3_F.brstm",
+        "/RetroRewind6/strm/trCM_F.brstm",
+        "/RetroRewind6/strm/trPC_F.brstm",
+        "/RetroRewind6/strm/trRP_F.brstm",
+        "/RetroRewind6/strm/trBL_F.brstm",
+        "/RetroRewind6/strm/trSG_F.brstm",
+        "/RetroRewind6/strm/trCCI_F.brstm",
+        "/RetroRewind6/strm/trSW_F.brstm",
+        "/RetroRewind6/strm/trSL_F.brstm",
+        "/RetroRewind6/strm/trLP_F.brstm",
+        "/RetroRewind6/strm/gpMB_F.brstm",
+        "/RetroRewind6/strm/gpMH_F.brstm",
+        "/RetroRewind6/strm/gpBR_F.brstm",
+        "/RetroRewind6/strm/gpSP_F.brstm",
+        "/RetroRewind6/strm/gpBC_F.brstm",
+        "/RetroRewind6/strm/gpCW_F.brstm",
+        "/RetroRewind6/strm/gpRC_F.brstm",
+        "/RetroRewind6/strm/sfcDP1_F.brstm",
+        "/RetroRewind6/strm/sfcDP2_F.brstm",
+        "/RetroRewind6/strm/dsDS_F.brstm",
+        "/RetroRewind6/strm/dsDC_F.brstm",
+        "/RetroRewind6/strm/dsNB_F.brstm",
+        "/RetroRewind6/strm/wDDR_F.brstm",
+        "/6.3.zip"
+      ]
+    },
+    {
+      "version": "6.3.1",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.3.1.zip"
+      ],
+      "deletes": [
+        "/RetroRewind6/strm/120_F.brstm",
+        "/RetroRewind6/strm/121_F.brstm",
+        "/RetroRewind6/strm/122_F.brstm",
+        "/RetroRewind6/strm/123_F.brstm",
+        "/RetroRewind6/strm/124_F.brstm",
+        "/RetroRewind6/strm/125_F.brstm",
+        "/RetroRewind6/strm/126_F.brstm",
+        "/RetroRewind6/strm/127_F.brstm",
+        "/RetroRewind6/strm/128_F.brstm",
+        "/RetroRewind6/strm/129_F.brstm",
+        "/RetroRewind6/strm/130_F.brstm",
+        "/RetroRewind6/strm/131_F.brstm",
+        "/RetroRewind6/strm/132_F.brstm",
+        "/RetroRewind6/strm/133_F.brstm",
+        "/RetroRewind6/strm/134_F.brstm",
+        "/RetroRewind6/strm/135_F.brstm",
+        "/RetroRewind6/strm/136_F.brstm",
+        "/RetroRewind6/strm/137_F.brstm",
+        "/RetroRewind6/strm/138_F.brstm",
+        "/RetroRewind6/strm/139_F.brstm",
+        "/RetroRewind6/strm/140_F.brstm",
+        "/RetroRewind6/strm/141_F.brstm",
+        "/RetroRewind6/strm/142_F.brstm",
+        "/RetroRewind6/strm/143_F.brstm",
+        "/RetroRewind6/strm/144_F.brstm",
+        "/RetroRewind6/strm/145_F.brstm",
+        "/RetroRewind6/strm/146_F.brstm",
+        "/RetroRewind6/strm/147_F.brstm",
+        "/RetroRewind6/strm/148_F.brstm",
+        "/RetroRewind6/strm/149_F.brstm",
+        "/RetroRewind6/strm/150_F.brstm",
+        "/RetroRewind6/strm/151_F.brstm",
+        "/RetroRewind6/strm/152_F.brstm",
+        "/RetroRewind6/strm/153_F.brstm",
+        "/RetroRewind6/strm/154_F.brstm",
+        "/RetroRewind6/strm/155_F.brstm",
+        "/RetroRewind6/strm/156_F.brstm",
+        "/RetroRewind6/strm/157_F.brstm",
+        "/RetroRewind6/strm/158_F.brstm",
+        "/RetroRewind6/strm/159_F.brstm",
+        "/RetroRewind6/strm/160_F.brstm",
+        "/RetroRewind6/strm/161_F.brstm",
+        "/RetroRewind6/strm/162_F.brstm",
+        "/RetroRewind6/strm/163_F.brstm",
+        "/RetroRewind6/strm/164_F.brstm",
+        "/RetroRewind6/strm/165_F.brstm",
+        "/RetroRewind6/strm/166_F.brstm",
+        "/RetroRewind6/strm/167_F.brstm",
+        "/RetroRewind6/strm/168_F.brstm",
+        "/RetroRewind6/strm/169_F.brstm",
+        "/RetroRewind6/strm/170_F.brstm",
+        "/RetroRewind6/strm/171_F.brstm",
+        "/RetroRewind6/strm/172_F.brstm",
+        "/RetroRewind6/strm/173_F.brstm",
+        "/RetroRewind6/strm/174_F.brstm",
+        "/RetroRewind6/strm/175_F.brstm",
+        "/RetroRewind6/strm/176_F.brstm",
+        "/RetroRewind6/strm/120_N.brstm",
+        "/RetroRewind6/strm/121_N.brstm",
+        "/RetroRewind6/strm/122_N.brstm",
+        "/RetroRewind6/strm/123_N.brstm",
+        "/RetroRewind6/strm/124_N.brstm",
+        "/RetroRewind6/strm/125_N.brstm",
+        "/RetroRewind6/strm/126_N.brstm",
+        "/RetroRewind6/strm/127_N.brstm",
+        "/RetroRewind6/strm/128_N.brstm",
+        "/RetroRewind6/strm/129_N.brstm",
+        "/RetroRewind6/strm/130_N.brstm",
+        "/RetroRewind6/strm/131_N.brstm",
+        "/RetroRewind6/strm/132_N.brstm",
+        "/RetroRewind6/strm/133_N.brstm",
+        "/RetroRewind6/strm/134_N.brstm",
+        "/RetroRewind6/strm/135_N.brstm",
+        "/RetroRewind6/strm/136_N.brstm",
+        "/RetroRewind6/strm/137_N.brstm",
+        "/RetroRewind6/strm/138_N.brstm",
+        "/RetroRewind6/strm/139_N.brstm",
+        "/RetroRewind6/strm/140_N.brstm",
+        "/RetroRewind6/strm/141_N.brstm",
+        "/RetroRewind6/strm/142_N.brstm",
+        "/RetroRewind6/strm/143_N.brstm",
+        "/RetroRewind6/strm/144_N.brstm",
+        "/RetroRewind6/strm/145_N.brstm",
+        "/RetroRewind6/strm/146_N.brstm",
+        "/RetroRewind6/strm/147_N.brstm",
+        "/RetroRewind6/strm/148_N.brstm",
+        "/RetroRewind6/strm/149_N.brstm",
+        "/RetroRewind6/strm/150_N.brstm",
+        "/RetroRewind6/strm/151_N.brstm",
+        "/RetroRewind6/strm/152_N.brstm",
+        "/RetroRewind6/strm/153_N.brstm",
+        "/RetroRewind6/strm/154_N.brstm",
+        "/RetroRewind6/strm/155_N.brstm",
+        "/RetroRewind6/strm/156_N.brstm",
+        "/RetroRewind6/strm/157_N.brstm",
+        "/RetroRewind6/strm/158_N.brstm",
+        "/RetroRewind6/strm/159_N.brstm",
+        "/RetroRewind6/strm/160_N.brstm",
+        "/RetroRewind6/strm/161_N.brstm",
+        "/RetroRewind6/strm/162_N.brstm",
+        "/RetroRewind6/strm/163_N.brstm",
+        "/RetroRewind6/strm/164_N.brstm",
+        "/RetroRewind6/strm/165_N.brstm",
+        "/RetroRewind6/strm/166_N.brstm",
+        "/RetroRewind6/strm/167_N.brstm",
+        "/RetroRewind6/strm/168_N.brstm",
+        "/RetroRewind6/strm/169_N.brstm",
+        "/RetroRewind6/strm/170_N.brstm",
+        "/RetroRewind6/strm/171_N.brstm",
+        "/RetroRewind6/strm/172_N.brstm",
+        "/RetroRewind6/strm/173_N.brstm",
+        "/RetroRewind6/strm/174_N.brstm",
+        "/RetroRewind6/strm/175_N.brstm",
+        "/RetroRewind6/strm/176_N.brstm",
+        "/6.3.1.zip"
+      ]
+    },
+    {
+      "version": "6.4.0",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.4.zip"
+      ],
+      "deletes": [
+        "/6.4.zip"
+      ]
+    },
+    {
+      "version": "6.4.1",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.4.1.zip"
+      ],
+      "deletes": [
+        "/6.4.1.zip"
+      ]
+    },
+    {
+      "version": "6.4.2",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.4.2.zip"
+      ],
+      "deletes": [
+        "/6.4.2.zip"
+      ]
+    },
+    {
+      "version": "6.5.0",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.5.zip"
+      ],
+      "deletes": [
+        "/6.5.zip"
+      ]
+    },
+    {
+      "version": "6.5.1",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.5.1.zip"
+      ],
+      "deletes": [
+        "/6.5.1.zip"
+      ]
+    },
+    {
+      "version": "6.5.2",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.5.2.zip"
+      ],
+      "deletes": [
+        "/6.5.2.zip"
+      ]
+    },
+    {
+      "version": "6.5.3",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.5.3.zip"
+      ],
+      "deletes": [
+        "/6.5.3.zip"
+      ]
+    },
+    {
+      "version": "6.5.4",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.5.4.zip"
+      ],
+      "deletes": [
+        "/6.5.4.zip"
+      ]
+    },
+    {
+      "version": "6.5.5",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.5.5.zip"
+      ],
+      "deletes": [
+        "/6.5.5.zip"
+      ]
+    },
+    {
+      "version": "6.5.6",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.5.6.zip"
+      ],
+      "deletes": [
+        "/6.5.6.zip"
+      ]
+    },
+    {
+      "version": "6.5.7",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.5.7.zip"
+      ],
+      "deletes": [
+        "/6.5.7.zip"
+      ]
+    },
+    {
+      "version": "6.6.0",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.6.zip"
+      ],
+      "deletes": [
+        "/6.6.zip"
+      ]
+    },
+    {
+      "version": "6.6.1",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.6.1.zip"
+      ],
+      "deletes": [
+        "/6.6.1.zip"
+      ]
+    },
+    {
+      "version": "6.6.9",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.6.9.zip"
+      ],
+      "deletes": [
+        "/6.6.9.zip",
+        "/RetroRewind6/Tracks/block_battle.szs",
+        "/RetroRewind6/Tracks/casino_battle.szs",
+        "/RetroRewind6/Tracks/old_battle3_gba.szs",
+        "/RetroRewind6/Tracks/old_battle4_sfc.szs",
+        "/RetroRewind6/Tracks/old_cookieland_gc.szs",
+        "/RetroRewind6/Tracks/old_house_ds.szs",
+        "/RetroRewind6/Tracks/old_matenro_64.szs",
+        "/RetroRewind6/Tracks/sand_battle.szs",
+        "/RetroRewind6/Tracks/skate_battle.szs",
+        "/RetroRewind6/Tracks/venice_battle.szs"
+      ]
+    },
+    {
+      "version": "6.8.0",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.8.zip"
+      ],
+      "deletes": [
+        "/6.8.zip"
+      ]
+    },
+    {
+      "version": "6.8.2",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.8.2.zip"
+      ],
+      "deletes": [
+        "/6.8.2.zip"
+      ]
+    },
+    {
+      "version": "6.8.3",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.8.3.zip"
+      ],
+      "deletes": [
+        "/6.8.3.zip"
+      ]
+    },
+    {
+      "version": "6.9.0",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.9.zip"
+      ],
+      "deletes": [
+        "/6.9.0.zip"
+      ]
+    },
+    {
+      "version": "6.9.1",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.9.1.zip"
+      ],
+      "deletes": [
+        "/6.9.1.zip"
+      ]
+    },
+    {
+      "version": "6.9.2",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.9.2.zip"
+      ],
+      "deletes": [
+        "/6.9.2.zip"
+      ]
+    },
+    {
+      "version": "6.10.0",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.10.0.zip"
+      ],
+      "deletes": [
+        "/6.10.0.zip"
+      ]
+    },
+    {
+      "version": "6.11.0",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.11.0.zip"
+      ],
+      "deletes": [
+        "/6.11.0.zip"
+      ]
+    },
+    {
+      "version": "6.11.1",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.11.1.zip"
+      ],
+      "deletes": [
+        "/6.11.1.zip"
+      ]
+    },
+    {
+      "version": "6.11.2",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.11.2.zip"
+      ],
+      "deletes": [
+        "/6.11.2.zip"
+      ]
+    },
+    {
+      "version": "6.11.3",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.11.3.zip"
+      ],
+      "deletes": [
+        "/6.11.3.zip"
+      ]
+    },
+    {
+      "version": "6.11.4",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.11.4.zip"
+      ],
+      "deletes": [
+        "/6.11.4.zip"
+      ]
+    },
+    {
+      "version": "6.11.6",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.11.6.zip"
+      ],
+      "deletes": [
+        "/6.11.6.zip"
+      ]
+    },
+    {
+      "version": "6.11.7",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.11.7.zip"
+      ],
+      "deletes": [
+        "/6.11.7.zip"
+      ],
+      "full_download": "https://cdn.update.rwfc.net/RetroRewind/zip/6.11.7-full.zip"
+    }
+  ]
+}
