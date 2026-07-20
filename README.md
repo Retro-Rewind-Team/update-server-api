@@ -14,7 +14,8 @@ from a single JSON manifest.
 | `GET /RetroRewind/RetroRewindVersion.txt` | `<version> <url> <path> <description>`, one line per update zip |
 | `GET /RetroRewind/RetroRewindDelete.txt` | `<version> <path>`, one line per deleted file |
 | `GET /RetroRewind/RetroRewindInstall.txt` | URL of the newest full download |
-| `GET /RetroRewind/zip/RetroRewind.zip` | The legacy reinstall zip, if `legacy_reinstall_zip` is set |
+| `GET /RetroRewind/zip/RetroRewind.zip` | 302 to the newest full download (legacy reinstall path) |
+| `GET /` | `OK`, so WheelWizard's reachability check passes |
 
 Admin routes need `Authorization: Bearer <admin_token>`:
 
@@ -74,19 +75,21 @@ ascending, URLs that don't end in a filename, and any field containing
 whitespace (both text formats are whitespace-separated, so a stray space would
 corrupt the line).
 
-## Legacy reinstall zip
+## Legacy reinstall path
 
-Old PC clients reinstall from a fixed `/RetroRewind/zip/RetroRewind.zip` rather
-than reading `RetroRewindInstall.txt`. Setting `legacy_reinstall_zip` to a file
-on the host serves it at that path, streamed and with range requests so large
-downloads resume. Everything else about the migration is unaffected by it.
+Older WheelWizard clients reinstall from a fixed
+`/RetroRewind/zip/RetroRewind.zip` rather than reading `RetroRewindInstall.txt`.
+That path 302s to whatever `RetroRewindInstall.txt` currently points at, so the
+two can never disagree and the transfer itself is served by the CDN rather than
+this host.
 
-This is temporary. Once enough of the playerbase has moved to clients that read
-`RetroRewindInstall.txt`, comment the key out and the route disappears.
+The redirect is a 302 rather than a 301, because the target moves with every
+full release and a permanent redirect would be cached against us. It is a 302
+rather than a 307 or 303 because that is the status the oldest HTTP clients
+understand, and these are by definition old clients.
 
-If the key is set but the file is missing, the server logs a warning, keeps
-serving everything else, and the route 404s — a broken shim never takes the
-update files down with it.
+This is temporary — delete the route once enough of the playerbase has moved to
+clients that read `RetroRewindInstall.txt`.
 
 ## Running
 

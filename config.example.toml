@@ -8,9 +8,3 @@ manifest_path = "manifest.json"
 
 # Bearer token required by the /admin routes. Generate with openssl rand -hex 32
 admin_token = "replace-me"
-
-# Optional, and temporary. Old PC clients reinstall from the fixed URL
-# /RetroRewind/zip/RetroRewind.zip instead of reading RetroRewindInstall.txt.
-# Point this at the full zip on the host to keep them working. Commenting out
-# disables this route.
-#legacy_reinstall_zip = "/srv/retrorewind/RetroRewind.zip"

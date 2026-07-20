@@ -12,12 +12,6 @@ pub struct Config {
     pub manifest_path: PathBuf,
     /// Bearer token for the `/admin` routes
     pub admin_token: String,
-    /// Local file served at `/RetroRewind/zip/RetroRewind.zip`, for old PC
-    /// clients that reinstall from that fixed URL instead of reading
-    /// `RetroRewindInstall.txt`. Unset to drop the route once those clients
-    /// have moved on.
-    #[serde(default)]
-    pub legacy_reinstall_zip: Option<PathBuf>,
 }
 
 fn default_bind() -> SocketAddr {

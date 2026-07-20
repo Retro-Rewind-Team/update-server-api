@@ -3,7 +3,7 @@ use std::sync::Arc;
 
 use anyhow::Context;
 use axum::extract::{Request, State};
-use axum::http::{StatusCode, header};
+use axum::http::{HeaderValue, StatusCode, header};
 use axum::middleware::{self, Next};
 use axum::response::{IntoResponse, Response};
 use axum::routing::{get, post};
@@ -11,7 +11,6 @@ use axum::{Json, Router};
 use serde::Serialize;
 use serde_json::json;
 use tokio::sync::RwLock;
-use tower_http::services::ServeFile;
 
 use crate::config::Config;
 use crate::manifest::{Manifest, Rendered, VersionEntry};
@@ -43,7 +42,8 @@ impl AppState {
         let rendered = Arc::new(manifest.render());
         if rendered.install_txt.is_none() {
             tracing::warn!(
-                "no version has a full_download, so RetroRewindInstall.txt will return 404"
+                "no version has a full_download, so RetroRewindInstall.txt \
+                 and {LEGACY_REINSTALL_ROUTE} will return 404"
             );
         }
         tracing::info!(
@@ -51,26 +51,6 @@ impl AppState {
             "loaded {}",
             config.manifest_path.display()
         );
-
-        // Warn rather than bail: this route is a temporary shim, and a bad path
-        // here should not stop the update files themselves from being served.
-        if let Some(path) = &config.legacy_reinstall_zip {
-            match tokio::fs::metadata(path).await {
-                Ok(metadata) if metadata.is_file() => tracing::info!(
-                    bytes = metadata.len(),
-                    "serving {LEGACY_REINSTALL_ROUTE} from {}",
-                    path.display()
-                ),
-                Ok(_) => tracing::warn!(
-                    "legacy_reinstall_zip {} is not a file, so {LEGACY_REINSTALL_ROUTE} will fail",
-                    path.display()
-                ),
-                Err(error) => tracing::warn!(
-                    "legacy_reinstall_zip {} is unreadable ({error}), so {LEGACY_REINSTALL_ROUTE} will 404",
-                    path.display()
-                ),
-            }
-        }
 
         Ok(Arc::new(Self {
             config,
@@ -121,19 +101,14 @@ pub fn router(state: Arc<AppState>) -> Router {
             require_admin,
         ));
 
-    let mut router = Router::new()
+    Router::new()
         .route("/", get(get_root))
         .route("/RetroRewind/RetroRewindVersion.txt", get(version_txt))
         .route("/RetroRewind/RetroRewindDelete.txt", get(delete_txt))
-        .route("/RetroRewind/RetroRewindInstall.txt", get(install_txt));
-
-    // ServeFile rather than a handler since the zip is gigabytes, so it has to
-    // stream, and old clients need range requests to resume a failed download.
-    if let Some(path) = &state.config.legacy_reinstall_zip {
-        router = router.route_service(LEGACY_REINSTALL_ROUTE, ServeFile::new(path));
-    }
-
-    router.nest("/admin", admin).with_state(state)
+        .route("/RetroRewind/RetroRewindInstall.txt", get(install_txt))
+        .route(LEGACY_REINSTALL_ROUTE, get(legacy_reinstall_zip))
+        .nest("/admin", admin)
+        .with_state(state)
 }
 
 async fn version_txt(State(state): State<Arc<AppState>>) -> Response {
@@ -149,6 +124,30 @@ async fn install_txt(State(state): State<Arc<AppState>>) -> Result<Response, App
         Some(url) => Ok(text(url)),
         None => Err(AppError::NotFound("no full download is published")),
     }
+}
+
+/// Old PC clients reinstall from this fixed path instead of reading
+/// `RetroRewindInstall.txt`, so send them to whatever that file points at.
+///
+/// Temporary: drop this route once those clients are gone.
+///
+/// 302 rather than a permanent redirect, because the target moves with every
+/// full release and a 301 would be cached against us. 302 rather than axum's
+/// 307/303 helpers because it is the status every ancient HTTP client
+/// understands, and these are by definition old clients.
+async fn legacy_reinstall_zip(State(state): State<Arc<AppState>>) -> Result<Response, AppError> {
+    let Some(url) = state.rendered().await.install_txt.clone() else {
+        return Err(AppError::NotFound("no full download is published"));
+    };
+
+    // The URL comes from the manifest, which rejects whitespace and control
+    // characters, so it is safe to put in a header.
+    let location = HeaderValue::from_str(&url).map_err(|_| {
+        AppError::Internal(anyhow::anyhow!(
+            "full download url is not a valid header: {url:?}"
+        ))
+    })?;
+    Ok((StatusCode::FOUND, [(header::LOCATION, location)]).into_response())
 }
 
 async fn get_manifest(State(state): State<Arc<AppState>>) -> Json<Manifest> {
