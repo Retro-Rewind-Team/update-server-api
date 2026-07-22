@@ -1659,6 +1659,16 @@
         "/6.12.1.zip"
       ],
       "full_download": "https://cdn.update.rwfc.net/RetroRewind/zip/6.12.1-full.zip"
+    },
+    {
+      "version": "6.12.2",
+      "zips": [
+        "https://cdn.update.rwfc.net/RetroRewind/zip/6.12.2-2.zip"
+      ],
+      "deletes": [
+        "/6.12.2.zip"
+      ],
+      "full_download": "https://cdn.update.rwfc.net/RetroRewind/zip/6.12.2-full-2.zip"
     }
   ]
 }
